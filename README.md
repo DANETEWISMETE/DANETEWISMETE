@@ -39,13 +39,9 @@
 ### 📊 My GitHub Activity and Stats
 
 <div align="center">
-  <a href="https://github.com/DANETEWISMETE">
-    <img src="https://github-readme-stats.vercel.app/api?username=DANETEWISMETE&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1&cache_bust=6" height="150" alt="DANETEWISMETE GitHub Stats" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=DANETEWISMETE&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="DANETEWISMETE GitHub Stats" />
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/DANETEWISMETE">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DANETEWISMETE&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2&cache_bust=true" height="150" alt="DANETEWISMETE Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DANETEWISMETE&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="DANETEWISMETE Top Languages" />
 </div>
 
 <br />
@@ -58,7 +54,7 @@
 
 <div align="center">
     <p>
-        <a href="https://www.linkedin.com/in/daniel-guillam%C3%B3n-rico-b371372b8/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" height="30" /></a>&nbsp;&nbsp;<a href="mailto:daniel.guillamon.7e7@itb.cat" target="_blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" /></a>
+        <a href="https://www.linkedin.com/in/daniel-guillam%C3%B3n-rico-34263a3ab/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" height="30" /></a>&nbsp;&nbsp;<a href="mailto:daniel.guillamon.7e7@itb.cat" target="_blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" /></a>
     </p>
 </div>
 
