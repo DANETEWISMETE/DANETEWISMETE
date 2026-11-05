@@ -33,27 +33,27 @@
 <div align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)" 
-            srcset="https://github-readme-stats.vercel.app/api?username=ITBDaniel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1&cache_bust=6">
+            srcset="https://github-readme-stats.vercel.app/api?username=DANETEWISMETE&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1&cache_bust=6">
         <source media="(prefers-color-scheme: light)" 
-            srcset="https://github-readme-stats.vercel.app/api?username=ITBDaniel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=default&locale=en&hide_border=true&order=1&cache_bust=6">
-        <img alt="ITBDaniel GitHub Stats" height="150" 
-            src="https://github-readme-stats.vercel.app/api?username=ITBDaniel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1&cache_bust=6">
+            srcset="https://github-readme-stats.vercel.app/api?username=DANETEWISMETE&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=default&locale=en&hide_border=true&order=1&cache_bust=6">
+        <img alt="DANETEWISMETE GitHub Stats" height="150" 
+            src="https://github-readme-stats.vercel.app/api?username=DANETEWISMETE&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1&cache_bust=6">
     </picture>&nbsp;&nbsp;&nbsp;
     <picture>
         <source media="(prefers-color-scheme: dark)" 
-            srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ITBDaniel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2&cache_bust=true">
+            srcset="https://github-readme-stats.vercel.app/api/top-langs?username=DANETEWISMETE&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2&cache_bust=true">
         <source media="(prefers-color-scheme: light)" 
-            srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ITBDaniel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true&order=2&cache_bust=true">
-        <img alt="ITBDaniel Top Languages" height="150" 
-            src="https://github-readme-stats.vercel.app/api/top-langs?username=ITBDaniel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2&cache_bust=true">
+            srcset="https://github-readme-stats.vercel.app/api/top-langs?username=DANETEWISMETE&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true&order=2&cache_bust=true">
+        <img alt="DANETEWISMETE Top Languages" height="150" 
+            src="https://github-readme-stats.vercel.app/api/top-langs?username=DANETEWISMETE&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2&cache_bust=true">
     </picture>
 </div>
 
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ITBDaniel/ITBDaniel/output/pacman-contribution-graph-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ITBDaniel/ITBDaniel/output/pacman-contribution-graph.svg">
-        <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/ITBDaniel/ITBDaniel/output/pacman-contribution-graph.svg">
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DANETEWISMETE/DANETEWISMETE/output/pacman-contribution-graph-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DANETEWISMETE/DANETEWISMETE/output/pacman-contribution-graph.svg">
+        <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/DANETEWISMETE/DANETEWISMETE/output/pacman-contribution-graph.svg">
     </picture>
 </div>
 
@@ -68,7 +68,7 @@
 </div>
 
 <div align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=ITBDaniel.ITBDaniel&left_color=darkred&right_color=goldenrod" alt="Visitor Count" style="margin-top: 15px;" />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=DANETEWISMETE.DANETEWISMETE&left_color=darkred&right_color=goldenrod" alt="Visitor Count" style="margin-top: 15px;" />
 </div>
 
 <div align="center">
