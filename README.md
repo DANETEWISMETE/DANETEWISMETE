@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there, I'm Daniel Guillamón</h1>
-<h3 align="center">💻 Web Development (DAW) Student from Spain 🇪🇸</h3>
+<h3 align="center">💻 Web Development (DAWe) Student from Spain 🇪🇸</h3>
 
 ---
 
