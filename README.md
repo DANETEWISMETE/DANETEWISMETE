@@ -31,33 +31,23 @@
 ### 📊 My GitHub Activity and Stats
 
 <div align="center">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" 
-            srcset="https://github-readme-stats.vercel.app/api?username=DANETEWISMETE&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1&cache_bust=6">
-        <source media="(prefers-color-scheme: light)" 
-            srcset="https://github-readme-stats.vercel.app/api?username=DANETEWISMETE&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=default&locale=en&hide_border=true&order=1&cache_bust=6">
-        <img alt="DANETEWISMETE GitHub Stats" height="150" 
-            src="https://github-readme-stats.vercel.app/api?username=DANETEWISMETE&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1&cache_bust=6">
-    </picture>&nbsp;&nbsp;&nbsp;
-    <picture>
-        <source media="(prefers-color-scheme: dark)" 
-            srcset="https://github-readme-stats.vercel.app/api/top-langs?username=DANETEWISMETE&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2&cache_bust=true">
-        <source media="(prefers-color-scheme: light)" 
-            srcset="https://github-readme-stats.vercel.app/api/top-langs?username=DANETEWISMETE&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true&order=2&cache_bust=true">
-        <img alt="DANETEWISMETE Top Languages" height="150" 
-            src="https://github-readme-stats.vercel.app/api/top-langs?username=DANETEWISMETE&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2&cache_bust=true">
-    </picture>
+  <a href="https://github.com/DANETEWISMETE">
+    <img src="https://github-readme-stats.vercel.app/api?username=DANETEWISMETE&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1&cache_bust=6#gh-dark-mode-only" height="150" alt="DANETEWISMETE GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=DANETEWISMETE&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=default&locale=en&hide_border=true&order=1&cache_bust=6#gh-light-mode-only" height="150" alt="DANETEWISMETE GitHub Stats" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/DANETEWISMETE">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DANETEWISMETE&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2&cache_bust=true#gh-dark-mode-only" height="150" alt="DANETEWISMETE Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DANETEWISMETE&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true&order=2&cache_bust=true#gh-light-mode-only" height="150" alt="DANETEWISMETE Top Languages" />
+  </a>
 </div>
+
+<br />
 
 <div align="center">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DANETEWISMETE/DANETEWISMETE/output/pacman-contribution-graph-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DANETEWISMETE/DANETEWISMETE/output/pacman-contribution-graph.svg">
-        <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/DANETEWISMETE/DANETEWISMETE/output/pacman-contribution-graph.svg">
-    </picture>
+  <img src="https://raw.githubusercontent.com/DANETEWISMETE/DANETEWISMETE/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only" alt="Pac-Man Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/DANETEWISMETE/DANETEWISMETE/output/pacman-contribution-graph.svg#gh-light-mode-only" alt="Pac-Man Contribution Graph" />
 </div>
-
----
 
 ### 🌐 Connect With Me
 
