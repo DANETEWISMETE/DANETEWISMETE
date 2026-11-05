@@ -39,15 +39,15 @@
 ### 📊 My GitHub Activity and Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DANETEWISMETE&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1&cache_bust=99" height="150" alt="DANETEWISMETE GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DANETEWISMETE&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" height="150" alt="GitHub Stats" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DANETEWISMETE&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2&cache_bust=99" height="150" alt="DANETEWISMETE Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DANETEWISMETE&layout=compact&theme=dracula&hide_border=true&langs_count=5" height="150" alt="Top Languages" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DANETEWISMETE/DANETEWISMETE/output/pacman-contribution-graph-dark.svg?v=2" alt="Pac-Man Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/DANETEWISMETE/DANETEWISMETE/output/pacman-contribution-graph-dark.svg" alt="Pac-Man Contribution Graph" />
 </div>
 
 ### 🌐 Connect With Me
