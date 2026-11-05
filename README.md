@@ -52,7 +52,7 @@
 
 <div align="center">
     <p>
-        <a href="https://www.linkedin.com/in/daniel-guillam%C3%B3n-rico/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" height="30" /></a>&nbsp;&nbsp;<a href="mailto:danielguillamonrico@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" /></a>
+        <a href="https://www.linkedin.com/in/daniel-guillamon-rico/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" height="30" /></a>&nbsp;&nbsp;<a href="mailto:danielguillamonrico@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" /></a>
     </p>
 </div>
 
