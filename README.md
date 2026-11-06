@@ -42,7 +42,9 @@
 ### 📊 My GitHub Activity and Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DANETEWISMETE&theme=dracula" alt="GitHub Profile Summary" />
+  <img src="https://github-readme-stats-liart-ten-43.vercel.app&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" height="150" alt="GitHub Stats" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats-liart-ten-43.vercel.app&layout=compact&theme=dracula&hide_border=true&langs_count=5" height="150" alt="Top Languages" />
 </div>
 
 <br />
