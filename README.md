@@ -42,9 +42,9 @@
 ### 📊 My GitHub Activity and Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-liart-ten-43.vercel.app&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-liart-ten-43.vercel.app/api?username=DANETEWISMETE&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" height="150" alt="DANETEWISMETE GitHub Stats" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats-liart-ten-43.vercel.app&layout=compact&theme=dracula&hide_border=true&langs_count=5" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats-liart-ten-43.vercel.app/api/top-langs?username=DANETEWISMETE&layout=compact&theme=dracula&hide_border=true&langs_count=5" height="150" alt="DANETEWISMETE Top Languages" />
 </div>
 
 <br />
